@@ -1,0 +1,6 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mileydi\\Desktop\\AspNetCoreWebApi\\WebApiBankingSystem\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mileydi\\Desktop\\AspNetCoreWebApi\\WebApiBankingSystem\\Domain",
+  "Persistance, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mileydi\\Desktop\\AspNetCoreWebApi\\WebApiBankingSystem\\Persistance",
+  "WebApiBankingSystem, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mileydi\\Desktop\\AspNetCoreWebApi\\WebApiBankingSystem\\WebApiBankingSystem"
+}

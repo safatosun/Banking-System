@@ -1,0 +1,460 @@
+2024-01-03 15:21:35.3087 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 15:21:35.3534 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 15:21:35.3633 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 15:21:35.3769 Info Configuration initialized.
+2024-01-03 15:46:50.7235 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 15:46:50.7412 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 15:46:50.7412 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 15:46:50.7583 Info Configuration initialized.
+2024-01-03 15:54:35.1102 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 15:54:35.1299 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 15:54:35.1389 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 15:54:35.1602 Info Configuration initialized.
+2024-01-03 16:26:13.7831 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 16:26:13.8042 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 16:26:13.8042 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 16:26:13.8208 Info Configuration initialized.
+2024-01-03 16:26:55.2862 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 16:26:55.2946 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 16:26:55.2946 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 16:26:55.3087 Info Configuration initialized.
+2024-01-03 16:26:55.8785 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 16:26:55.8842 Info LogFactory has been closed.
+2024-01-03 16:27:10.9655 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 16:27:10.9655 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 16:27:10.9655 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 16:27:10.9850 Info Configuration initialized.
+2024-01-03 16:27:11.7085 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 16:27:11.7085 Info LogFactory has been closed.
+2024-01-03 16:28:41.4991 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 16:28:41.4991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 16:28:41.5129 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 16:28:41.5129 Info Configuration initialized.
+2024-01-03 16:28:45.6272 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 16:28:45.6272 Info LogFactory has been closed.
+2024-01-03 16:31:57.3906 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 16:31:57.3979 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 16:31:57.3979 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 16:31:57.4111 Info Configuration initialized.
+2024-01-03 16:31:58.1312 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 16:31:58.1362 Info LogFactory has been closed.
+2024-01-03 16:32:51.9616 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 16:32:51.9690 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 16:32:51.9690 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 16:32:51.9690 Info Configuration initialized.
+2024-01-03 16:32:52.9148 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 16:32:52.9201 Info LogFactory has been closed.
+2024-01-03 20:13:26.4271 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 20:13:26.4467 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 20:13:26.4544 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 20:13:26.4544 Info Configuration initialized.
+2024-01-03 20:15:03.3056 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 20:15:03.3248 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 20:15:03.3248 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 20:15:03.3466 Info Configuration initialized.
+2024-01-03 20:24:52.0387 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 20:24:52.0585 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 20:24:52.0585 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 20:24:52.0782 Info Configuration initialized.
+2024-01-03 22:52:46.1372 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 22:52:46.1372 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 22:52:46.1533 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 22:52:46.1533 Info Configuration initialized.
+2024-01-03 22:52:46.7900 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 22:52:46.7900 Info LogFactory has been closed.
+2024-01-03 22:52:52.5602 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 22:52:52.5602 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 22:52:52.5755 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 22:52:52.5755 Info Configuration initialized.
+2024-01-03 22:52:54.2649 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 22:52:54.2649 Info LogFactory has been closed.
+2024-01-03 22:54:04.8446 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 22:54:04.8523 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 22:54:04.8523 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 22:54:04.8678 Info Configuration initialized.
+2024-01-03 22:54:05.6921 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 22:54:05.6921 Info LogFactory has been closed.
+2024-01-03 22:55:46.2055 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 22:55:46.2139 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 22:55:46.2139 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 22:55:46.2307 Info Configuration initialized.
+2024-01-03 22:55:52.6451 Info AppDomain Shutting down. LogFactory closing...
+2024-01-03 22:55:52.6519 Info LogFactory has been closed.
+2024-01-03 23:06:04.3343 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:06:04.3670 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:06:04.3781 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:06:04.3882 Info Configuration initialized.
+2024-01-03 23:14:15.8547 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:14:15.8762 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:14:15.8762 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:14:15.9021 Info Configuration initialized.
+2024-01-03 23:21:28.6189 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:21:28.6391 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:21:28.6472 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:21:28.6567 Info Configuration initialized.
+2024-01-03 23:23:41.9824 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:23:42.0015 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:23:42.0015 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:23:42.0204 Info Configuration initialized.
+2024-01-03 23:34:32.2723 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:34:32.3025 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:34:32.3145 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:34:32.3295 Info Configuration initialized.
+2024-01-03 23:40:09.8297 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:40:09.8566 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:40:09.8566 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:40:09.8866 Info Configuration initialized.
+2024-01-03 23:45:51.5954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:45:51.6164 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:45:51.6164 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:45:51.6390 Info Configuration initialized.
+2024-01-03 23:49:28.5439 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:49:28.5690 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:49:28.5690 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:49:28.5886 Info Configuration initialized.
+2024-01-03 23:55:26.0170 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:55:26.0416 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:55:26.0556 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:55:26.0698 Info Configuration initialized.
+2024-01-03 23:59:47.7040 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-03 23:59:47.7247 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-03 23:59:47.7355 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-03 23:59:47.7487 Info Configuration initialized.
+2024-01-04 00:03:10.7786 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:03:10.8021 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:03:10.8124 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:03:10.8124 Info Configuration initialized.
+2024-01-04 00:09:32.4115 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:09:32.4219 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:09:32.4219 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:09:32.4380 Info Configuration initialized.
+2024-01-04 00:09:33.2739 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:09:33.2739 Info LogFactory has been closed.
+2024-01-04 00:09:48.6593 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:09:48.6593 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:09:48.6749 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:09:48.6749 Info Configuration initialized.
+2024-01-04 00:09:49.7898 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:09:49.7960 Info LogFactory has been closed.
+2024-01-04 00:09:56.4926 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:09:56.4926 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:09:56.5091 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:09:56.5091 Info Configuration initialized.
+2024-01-04 00:09:57.1304 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:09:57.1377 Info LogFactory has been closed.
+2024-01-04 00:09:59.1553 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:09:59.1659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:09:59.1659 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:09:59.1800 Info Configuration initialized.
+2024-01-04 00:10:00.0202 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:10:00.0202 Info LogFactory has been closed.
+2024-01-04 00:10:15.6866 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:10:15.6946 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:10:15.6946 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:10:15.7109 Info Configuration initialized.
+2024-01-04 00:10:16.5181 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:10:16.5181 Info LogFactory has been closed.
+2024-01-04 00:10:22.8421 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:10:22.8421 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:10:22.8560 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:10:22.8560 Info Configuration initialized.
+2024-01-04 00:10:29.4170 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:10:29.4237 Info LogFactory has been closed.
+2024-01-04 00:10:47.9898 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:10:48.0172 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:10:48.0287 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:10:48.0287 Info Configuration initialized.
+2024-01-04 00:23:25.8164 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:23:25.8392 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:23:25.8392 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:23:25.8561 Info Configuration initialized.
+2024-01-04 00:30:43.5101 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:30:43.5184 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:30:43.5184 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:30:43.5341 Info Configuration initialized.
+2024-01-04 00:30:44.1126 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:30:44.1126 Info LogFactory has been closed.
+2024-01-04 00:30:50.2546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:30:50.2631 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:30:50.2631 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:30:50.2792 Info Configuration initialized.
+2024-01-04 00:30:51.0946 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:30:51.0946 Info LogFactory has been closed.
+2024-01-04 00:36:17.0246 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:36:17.0345 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:36:17.0432 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:36:17.0432 Info Configuration initialized.
+2024-01-04 00:36:18.1304 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 00:36:18.1365 Info LogFactory has been closed.
+2024-01-04 00:36:38.2829 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:36:38.3094 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:36:38.3094 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:36:38.3361 Info Configuration initialized.
+2024-01-04 00:38:00.6289 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:38:00.6526 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:38:00.6526 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:38:00.6709 Info Configuration initialized.
+2024-01-04 00:38:56.0674 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:38:56.0877 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:38:56.0973 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:38:56.1078 Info Configuration initialized.
+2024-01-04 00:43:00.6904 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:43:00.7141 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:43:00.7141 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:43:00.7369 Info Configuration initialized.
+2024-01-04 00:44:23.0060 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:44:23.0303 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:44:23.0303 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:44:23.0570 Info Configuration initialized.
+2024-01-04 00:45:09.7225 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:45:09.7470 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:45:09.7470 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:45:09.7729 Info Configuration initialized.
+2024-01-04 00:48:50.8581 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 00:48:50.8793 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 00:48:50.8897 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 00:48:50.8897 Info Configuration initialized.
+2024-01-04 01:48:33.7952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 01:48:33.8449 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 01:48:33.8449 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 01:48:33.8625 Info Configuration initialized.
+2024-01-04 13:19:44.4186 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 13:19:44.4650 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 13:19:44.4786 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 13:19:44.4786 Info Configuration initialized.
+2024-01-04 15:32:24.9008 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 15:32:24.9409 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 15:32:24.9409 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 15:32:24.9594 Info Configuration initialized.
+2024-01-04 15:39:47.5631 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 15:39:47.5874 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 15:39:47.5978 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 15:39:47.6084 Info Configuration initialized.
+2024-01-04 15:59:35.9249 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 15:59:35.9474 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 15:59:35.9572 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 15:59:35.9698 Info Configuration initialized.
+2024-01-04 16:07:06.7258 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:07:06.7481 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:07:06.7481 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:07:06.7680 Info Configuration initialized.
+2024-01-04 16:07:20.2939 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:07:20.3162 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:07:20.3162 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:07:20.3366 Info Configuration initialized.
+2024-01-04 16:11:05.0051 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:11:05.0276 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:11:05.0276 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:11:05.0471 Info Configuration initialized.
+2024-01-04 16:12:30.8558 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:12:30.8773 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:12:30.8862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:12:30.8862 Info Configuration initialized.
+2024-01-04 16:14:23.7983 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:14:23.8163 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:14:23.8256 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:14:23.8256 Info Configuration initialized.
+2024-01-04 16:20:15.1447 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:20:15.1733 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:20:15.1828 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:20:15.1828 Info Configuration initialized.
+2024-01-04 16:22:16.0455 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:22:16.0653 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:22:16.0739 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:22:16.0739 Info Configuration initialized.
+2024-01-04 16:23:39.9703 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:23:39.9899 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:23:39.9899 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:23:40.0146 Info Configuration initialized.
+2024-01-04 16:23:59.6162 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:23:59.6356 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:23:59.6356 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:23:59.6542 Info Configuration initialized.
+2024-01-04 16:28:04.2852 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:28:04.3062 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:28:04.3062 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:28:04.3313 Info Configuration initialized.
+2024-01-04 16:28:26.3952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 16:28:26.4170 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 16:28:26.4261 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 16:28:26.4385 Info Configuration initialized.
+2024-01-04 17:07:57.7530 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:07:57.7757 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:07:57.7757 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:07:57.8012 Info Configuration initialized.
+2024-01-04 17:09:44.4360 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:09:44.4596 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:09:44.4695 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:09:44.4800 Info Configuration initialized.
+2024-01-04 17:10:27.8745 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:10:27.8989 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:10:27.9092 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:10:27.9202 Info Configuration initialized.
+2024-01-04 17:12:31.7568 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:12:31.7756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:12:31.7756 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:12:31.7932 Info Configuration initialized.
+2024-01-04 17:15:21.5794 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:15:21.5992 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:15:21.6078 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:15:21.6078 Info Configuration initialized.
+2024-01-04 17:15:38.1567 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 17:15:38.1665 Info LogFactory has been closed.
+2024-01-04 17:15:44.6753 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:15:44.6942 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:15:44.7037 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:15:44.7146 Info Configuration initialized.
+2024-01-04 17:17:22.6400 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:17:22.6611 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:17:22.6724 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:17:22.6877 Info Configuration initialized.
+2024-01-04 17:21:33.3312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:21:33.3502 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:21:33.3594 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:21:33.3687 Info Configuration initialized.
+2024-01-04 17:25:57.8839 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:25:57.9034 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:25:57.9034 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:25:57.9233 Info Configuration initialized.
+2024-01-04 17:26:05.3097 Info AppDomain Shutting down. LogFactory closing...
+2024-01-04 17:26:05.3097 Info LogFactory has been closed.
+2024-01-04 17:26:08.9772 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:26:08.9976 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:26:08.9976 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:26:09.0214 Info Configuration initialized.
+2024-01-04 17:28:10.8273 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:28:10.8523 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:28:10.8602 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:28:10.8703 Info Configuration initialized.
+2024-01-04 17:28:34.2727 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:28:34.2935 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:28:34.2935 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:28:34.3152 Info Configuration initialized.
+2024-01-04 17:31:46.6321 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 17:31:46.6840 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 17:31:46.6938 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 17:31:46.7054 Info Configuration initialized.
+2024-01-04 18:58:39.5899 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 18:58:39.6086 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 18:58:39.6086 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 18:58:39.6312 Info Configuration initialized.
+2024-01-04 19:03:02.5232 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 19:03:02.5482 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 19:03:02.5573 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 19:03:02.5573 Info Configuration initialized.
+2024-01-04 19:06:29.0177 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 19:06:29.0410 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 19:06:29.0410 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 19:06:29.0657 Info Configuration initialized.
+2024-01-04 19:06:57.1719 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 19:06:57.1930 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 19:06:57.2024 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 19:06:57.2140 Info Configuration initialized.
+2024-01-04 19:13:05.7272 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 19:13:05.7468 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 19:13:05.7468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 19:13:05.7674 Info Configuration initialized.
+2024-01-04 20:56:14.6511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 20:56:14.6861 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 20:56:14.7040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 20:56:14.7243 Info Configuration initialized.
+2024-01-04 20:59:21.3265 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-04 20:59:21.3652 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-04 20:59:21.3903 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-04 20:59:21.4152 Info Configuration initialized.
+2024-01-05 00:31:45.2593 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-05 00:31:45.2821 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-05 00:31:45.2907 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-05 00:31:45.2907 Info Configuration initialized.
+2024-01-05 00:46:21.1990 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-05 00:46:21.2174 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-05 00:46:21.2174 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-05 00:46:21.2390 Info Configuration initialized.
+2024-01-05 00:48:26.1622 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-05 00:48:26.1873 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-05 00:48:26.1970 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-05 00:48:26.2062 Info Configuration initialized.
+2024-01-06 04:31:22.3299 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-06 04:31:22.3483 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-06 04:31:22.3557 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-06 04:31:22.3557 Info Configuration initialized.
+2024-01-06 04:33:42.0258 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-06 04:33:42.0479 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-06 04:33:42.0551 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-06 04:33:42.0551 Info Configuration initialized.
+2024-01-06 05:35:35.6732 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-06 05:35:35.6988 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-06 05:35:35.6988 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-06 05:35:35.7202 Info Configuration initialized.
+2024-01-06 16:34:46.1651 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-06 16:34:46.1953 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-06 16:34:46.2093 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-06 16:34:46.2260 Info Configuration initialized.
+2024-01-06 19:56:38.8826 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-06 19:56:38.8983 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-06 19:56:38.9056 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-06 19:56:38.9056 Info Configuration initialized.
+2024-01-07 02:11:13.2978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:11:13.3350 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:11:13.3430 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:11:13.3525 Info Configuration initialized.
+2024-01-07 02:11:27.4681 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:11:27.4905 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:11:27.4905 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:11:27.5132 Info Configuration initialized.
+2024-01-07 02:38:30.2252 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:38:30.2426 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:38:30.2426 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:38:30.2426 Info Configuration initialized.
+2024-01-07 02:41:13.3792 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:41:13.3960 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:41:13.4043 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:41:13.4043 Info Configuration initialized.
+2024-01-07 02:42:43.8546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:42:43.8798 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:42:43.8913 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:42:43.8913 Info Configuration initialized.
+2024-01-07 02:44:05.7781 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:44:05.7951 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:44:05.8029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:44:05.8029 Info Configuration initialized.
+2024-01-07 02:46:24.6426 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:46:24.6601 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:46:24.6680 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:46:24.6680 Info Configuration initialized.
+2024-01-07 02:50:13.2480 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:50:13.2655 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:50:13.2734 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:50:13.2734 Info Configuration initialized.
+2024-01-07 02:52:11.9174 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:52:11.9339 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:52:11.9339 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:52:11.9507 Info Configuration initialized.
+2024-01-07 02:55:44.0963 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 02:55:44.1158 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 02:55:44.1253 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 02:55:44.1394 Info Configuration initialized.
+2024-01-07 03:06:46.2076 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 03:06:46.2233 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 03:06:46.2307 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 03:06:46.2307 Info Configuration initialized.
+2024-01-07 18:47:03.9532 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 18:47:03.9720 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 18:47:03.9800 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 18:47:03.9800 Info Configuration initialized.
+2024-01-07 20:17:11.5559 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 20:17:11.5921 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 20:17:11.6024 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 20:17:11.6024 Info Configuration initialized.
+2024-01-07 21:00:05.5695 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 21:00:05.5862 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 21:00:05.5862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 21:00:05.5862 Info Configuration initialized.
+2024-01-07 21:03:17.6191 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 21:03:17.6354 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 21:03:17.6354 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 21:03:17.6510 Info Configuration initialized.
+2024-01-07 21:06:47.4436 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-07 21:06:47.4591 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-01-07 21:06:47.4663 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem\WebApiBankingSystem\nlog.config
+2024-01-07 21:06:47.4663 Info Configuration initialized.
