@@ -36,6 +36,11 @@ The main focus areas of this API development include security, database manageme
  
 3. Start the project and begin using the API.
 
+## Photos From Project
+
+![token](https://github.com/safatosun/Fimple-.Net-Bootcamp/assets/110028593/831be6eb-1e27-4291-8341-581a0232ec18)
+![destek](https://github.com/safatosun/Fimple-.Net-Bootcamp/assets/110028593/09003674-d67b-4a44-9876-a771770541a0)
+
 ## Usage
 
 To use the API, you can utilize the following endpoints:
@@ -61,3 +66,5 @@ To use the API, you can utilize the following endpoints:
 ![19](https://github.com/safatosun/Fimple-.Net-Bootcamp/assets/110028593/4464b052-7bf2-417b-9a60-898ecd29ea4a)
 ![20](https://github.com/safatosun/Fimple-.Net-Bootcamp/assets/110028593/07fde776-c6a5-43f5-9956-7f8b71f46a42)
 ![21](https://github.com/safatosun/Fimple-.Net-Bootcamp/assets/110028593/fabc6add-0a47-4ef1-9a7f-0b5ac28f0cbe)
+
+
