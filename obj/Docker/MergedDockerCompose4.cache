@@ -1,0 +1,54 @@
+name: dockercompose2523205649042928798
+services:
+  sqldata:
+    container_name: SqlServerContainer
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: Password1#
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      myAppNetwork: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8002"
+        protocol: tcp
+  webapibankingsystem:
+    build:
+      context: C:\Users\Mileydi\Desktop\AspNetCoreWebApi\WebApiBankingSystem
+      dockerfile: WebApiBankingSystem/Dockerfile
+    container_name: webApiBankignSystemContainer
+    depends_on:
+      sqldata:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:80
+    image: webapibankingsystem
+    networks:
+      myAppNetwork: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+      - mode: ingress
+        target: 80
+        published: "8001"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Mileydi\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Mileydi\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  myAppNetwork:
+    name: dockercompose2523205649042928798_myAppNetwork

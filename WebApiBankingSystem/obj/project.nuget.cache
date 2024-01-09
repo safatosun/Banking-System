@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pudKIaTPT2UUEvotLWMCFGUHXnHAN5f0Cv5gebhe6tgiBzlhWN4pssdA+MqHigRa4bSFmDQqhSgUuigjZ8cUzA==",
+  "dgSpecHash": "CZqfI8YV19CeraecU6LNoNN1l1oQ53ZGk2gE1dUcegZqcEi6U+DV+HjV7/LbFWvkw/SPjfRQbOkWvNtua6LXjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mileydi\\Desktop\\AspNetCoreWebApi\\WebApiBankingSystem\\WebApiBankingSystem\\WebApiBankingSystem.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,7 @@
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",

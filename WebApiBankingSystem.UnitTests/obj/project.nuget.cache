@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Wb/4iDK0+wr+KwiX6KqaNjMAuYbrX0k+63Qx2znKBlFUY86XnH9xoXvwBZC39UNwWkao0cvCKLCYX//dWT977Q==",
+  "dgSpecHash": "O7cqo+stfb2PtaGS6E0FVGcomgUtfK+6KI37aHYbJqY+bapbBgpcs87JlIpgwWmvKhjxc1OALegYPg0EX0/y7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mileydi\\Desktop\\AspNetCoreWebApi\\WebApiBankingSystem\\WebApiBankingSystem.UnitTests\\WebApiBankingSystem.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -84,6 +84,7 @@
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.7.1\\microsoft.testplatform.objectmodel.17.7.1.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.testplatform.testhost\\17.7.1\\microsoft.testplatform.testhost.17.7.1.nupkg.sha512",
+    "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Mileydi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
