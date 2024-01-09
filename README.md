@@ -40,6 +40,7 @@ The main focus areas of this API development include security, database manageme
 
 ![token](https://github.com/safatosun/Fimple-.Net-Bootcamp/assets/110028593/831be6eb-1e27-4291-8341-581a0232ec18)
 ![destek](https://github.com/safatosun/Fimple-.Net-Bootcamp/assets/110028593/09003674-d67b-4a44-9876-a771770541a0)
+![dockerizing](https://github.com/safatosun/Fimple-.Net-Bootcamp/assets/110028593/dd60806b-c1dc-4966-9efd-595b9664a3c3)
 
 ## Usage
 
